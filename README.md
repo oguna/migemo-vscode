@@ -2,7 +2,7 @@
 
 VSCode上でローマ字のまま日本語の単語を検索できるMigemo検索を利用するための、拡張機能（エクステンション）です。
 
-![Screenshot](screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/oguna/migemo-vscode/main/screenshot.png)
 
 ## 使い方
 
