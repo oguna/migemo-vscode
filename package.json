@@ -3,6 +3,13 @@
   "displayName": "migemo-vscode",
   "description": "Migemo on VSCode",
   "version": "0.0.1",
+  "publisher": "oguna",
+  "preview": true,
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oguna/migemo-vscode.git"
+  },
   "engines": {
     "vscode": "^1.70.0"
   },
